@@ -1,6 +1,6 @@
 # Predicting-the-Price-of-a-Football-Player
 
-<Fork this repo>
+- Fork this repo
 
 ### Question:
 
@@ -8,11 +8,11 @@ In the English Premier League, May - July represents a lull period due to the la
 
 The attached data set consists of the following attributes:
 
-###name: Name of the player
-###club: Club of the player
-###age : Age of the player
-###position : The usual position on the pitch
-###position_cat :
+#### name: Name of the player
+#### club: Club of the player
+#### age : Age of the player
+#### position : The usual position on the pitch
+#### position_cat :
 
 1 for attackers
 
@@ -22,12 +22,12 @@ The attached data set consists of the following attributes:
 
 4 for goalkeepers
 
-###market_value : As on transfermrkt.com on July 20th, 2017
-###page_views : Average daily Wikipedia page views from September 1, 2016 to May 1, 2017
-###fpl_value : Value in Fantasy Premier League as on July 20th, 2017
-###fpl_sel : % of FPL players who have selected that player in their team
-###fpl_points : FPL points accumulated over the previous season
-###region: 
+#### market_value : As on transfermrkt.com on July 20th, 2017
+#### page_views : Average daily Wikipedia page views from September 1, 2016 to May 1, 2017
+#### fpl_value : Value in Fantasy Premier League as on July 20th, 2017
+#### fpl_sel : % of FPL players who have selected that player in their team
+#### fpl_points : FPL points accumulated over the previous season
+#### region: 
 1 for England
 
 2 for EU
@@ -36,12 +36,12 @@ The attached data set consists of the following attributes:
 
 4 for Rest of World
 
-###nationality
-###new_foreign : Whether a new signing from a different league, for 2017/18 (till 20th July)
-###age_cat
-###club_id
-###big_club: Whether one of the Top 6 clubs
-###new_signing: Whether a new signing for 2017/18 (till 20th July)
+#### nationality
+#### new_foreign : Whether a new signing from a different league, for 2017/18 (till 20th July)
+#### age_cat
+#### club_id
+#### big_club: Whether one of the Top 6 clubs
+#### new_signing: Whether a new signing for 2017/18 (till 20th July)
 
 You have learned about a number of regression algorithms in your course: Linear Regression, Lasso Regression, Ridge Regression, Nearest Neighbour Regression, Support Vector Regression, Tree Regression, Random Forest Regression and Gradient Boosted Regression. 
 
